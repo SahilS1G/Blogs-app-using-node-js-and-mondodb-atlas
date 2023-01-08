@@ -1,0 +1,14 @@
+
+200 == OK
+301 == Resource Moved
+404 == Not Found
+500 == Internal Server Crash
+
+
+Ranges:
+
+100 Range == information response
+200 range == success codes
+300 range == codes for redirects
+400 range == use or client error codes
+500 range == server error codes
